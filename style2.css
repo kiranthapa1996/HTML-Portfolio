@@ -1,0 +1,40 @@
+.Main{
+  background-color: red;
+  width:500px;
+  height:300px;
+  position:relative;
+  top:100px;
+  left:100px;
+}
+
+.Main>p{
+  color:White;
+  font-size: 2Rem;
+  position:absolute;
+  top:-20px;
+  left:200px;
+}
+
+.sub{
+  background-color: darkblue;
+  width:500px;
+  height:150px;
+  position:absolute;
+  top:75px;
+}
+.sub_sub{
+  background-color: white;
+  width:200px;
+  height:150px;
+  position:absolute;
+  top:75px;
+  left:150px;
+  border-radius: 50%;
+}
+
+.sub_sub>p{
+  font-size: 2Rem;
+  position:absolute;
+  top:20px;
+  left:55px;
+}
