@@ -1,0 +1,20 @@
+h1,h2{
+  color:blue
+}
+
+.box>p{
+  color:darkgreen;
+}
+
+.box li{
+  color:red;
+}
+
+li#First{
+  color:black;
+}
+
+ul>p{
+  font-size: 1rem;
+  color:darkmagenta;
+}
